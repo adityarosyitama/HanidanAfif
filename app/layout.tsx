@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Undangan Nikah Hani dan Afif",
-  description: "Undangan Nikah Hani dan Afif",
+  description: "Nurul Hani Hadira dan Muhammad Afif Nurulhuda",
 };
 
 export default function RootLayout({
