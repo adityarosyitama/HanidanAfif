@@ -5,7 +5,7 @@ import { useEffect, useRef, useState } from "react";
 // ─── Types ───────────────────────────────────────────────
 type TimeLeft = { days: number; hours: number; minutes: number; seconds: number };
 
-const INVITATION_URL = "http://localhost:3000/index.html";
+const INVITATION_URL = "https://hani-dan-afif.vercel.app/index.html";
 
 // ─── Constants ───────────────────────────────────────────
 const TARGET_DATE = "2026-06-06T17:00:00+07:00";
